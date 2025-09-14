@@ -18,3 +18,6 @@ Note that this kit is very convenient if you want to learn how the firmware work
 # Hardware
 If you do not have the board, you could even run that code without any modifications on an Arduino Uno, nano or pro. You will just need to attach a BMP085 or BMP180 pressure sensor to your Arduino board and few other componants. 
 
+# Quick altimeter Presentation 
+You can take a look at the following YouTube video for a quick overview of the altimeter
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tyCT6ZZCWO4/0.jpg)](https://www.youtube.com/watch?v=tyCT6ZZCWO4)
